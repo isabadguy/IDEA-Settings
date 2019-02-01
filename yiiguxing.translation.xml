@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Climate" />
       <item value="取得当天气候信息" />
       <item value="获取当天气候信息" />
       <item value="climate" />
@@ -23,7 +24,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="ENGLISH" value="12" />
         <entry key="JAPANESE" value="12" />
       </map>
     </option>
