@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ABSENCE KIND" />
       <item value="データ件数を取得する" />
       <item value="データ件数" />
       <item value="否则" />
@@ -41,7 +42,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="ENGLISH" value="14" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="JAPANESE" value="31" />
       </map>
