@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="データ" />
+      <item value="ABSENCE TYPE" />
       <item value="卒園・退園者も表示" />
       <item value="検索ボックス" />
       <item value="CHILDREN NM" />
-      <item value="データ" />
       <item value="園児一覧のデータを取得する" />
       <item value="later" />
       <item value="園児の在籍に関する統計" />
@@ -50,9 +51,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="ENGLISH" value="18" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="36" />
+        <entry key="JAPANESE" value="38" />
       </map>
     </option>
   </component>
