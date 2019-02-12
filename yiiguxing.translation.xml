@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profile" />
       <item value="データ" />
       <item value="ABSENCE TYPE" />
       <item value="卒園・退園者も表示" />
@@ -50,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="19" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="JAPANESE" value="38" />
       </map>
