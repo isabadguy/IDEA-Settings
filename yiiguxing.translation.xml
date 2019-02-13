@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="家庭での様子データを取得する" />
+      <item value="家庭での様子検索データを取得する" />
       <item value="家庭での様子" />
       <item value="家庭での様子の検索データ" />
       <item value="データ" />
@@ -49,15 +51,13 @@
       <item value="アンケート情報マスタ - マスタ" />
       <item value="マスタService" />
       <item value="メイ画面" />
-      <item value="改ページのデータ" />
-      <item value="職員一覧データを取得する" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
+        <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="20" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="41" />
+        <entry key="JAPANESE" value="43" />
       </map>
     </option>
   </component>
