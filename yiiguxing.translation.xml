@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="健康チェック(検温)情報データのデータを取得する" />
+      <item value="AILY BOARD ID" />
+      <item value="HILD ID" />
       <item value="クラス編集画面初期化" />
       <item value="データなしの場合、登録する" />
       <item value="デイリーボード" />
       <item value="クラス" />
-      <item value="健康チェック(検温)情報データのデータを取得する" />
       <item value="データを取得する" />
       <item value="読むフラグ" />
       <item value="Emotion" />
@@ -49,15 +51,13 @@
       <item value="climate" />
       <item value="States" />
       <item value="State" />
-      <item value="デイリーボード情報" />
-      <item value="情况" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="24" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="50" />
+        <entry key="JAPANESE" value="51" />
       </map>
     </option>
   </component>
