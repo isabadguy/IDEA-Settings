@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="データなしの場合、登録する" />
       <item value="デイリーボード" />
       <item value="クラス" />
       <item value="健康チェック(検温)情報データのデータを取得する" />
@@ -50,14 +51,13 @@
       <item value="デイリーボード情報" />
       <item value="情况" />
       <item value="statistic Nursery" />
-      <item value="attend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
+        <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="22" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="48" />
+        <entry key="JAPANESE" value="49" />
       </map>
     </option>
   </component>
