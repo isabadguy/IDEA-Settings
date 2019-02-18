@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="「午睡」ダイアログ保存ボタン処理" />
+      <item value="ダイアログを開く" />
+      <item value="「午睡」ダイアログを開く" />
+      <item value="カレント職員情報を取得する" />
       <item value="galaxy" />
       <item value="capricornus" />
       <item value="データ件数を取得する" />
@@ -47,17 +51,13 @@
       <item value="Column" />
       <item value="保存エラー" />
       <item value="日付フォーマット" />
-      <item value="Climate" />
-      <item value="取得当天气候信息" />
-      <item value="获取当天气候信息" />
-      <item value="climate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
+        <entry key="CHINESE" value="55" />
         <entry key="ENGLISH" value="26" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="52" />
+        <entry key="JAPANESE" value="56" />
       </map>
     </option>
   </component>
