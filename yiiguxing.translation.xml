@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="アンケート" />
+      <item value="アンケート項目を公開する" />
+      <item value="下書き" />
       <item value="「職員」ダイアログを開く" />
       <item value="保存ボタン処理" />
       <item value="ダイアログ保存ボタン処理" />
@@ -48,16 +51,13 @@
       <item value="エラーメッセージ" />
       <item value="当天天气存在修改" />
       <item value="当天天气存在更新；否则插入" />
-      <item value="当天天气存在更新" />
-      <item value="操作失败" />
-      <item value="操作成功" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
+        <entry key="CHINESE" value="63" />
         <entry key="ENGLISH" value="26" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="61" />
+        <entry key="JAPANESE" value="64" />
       </map>
     </option>
   </component>
