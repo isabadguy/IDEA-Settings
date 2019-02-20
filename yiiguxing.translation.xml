@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="「職員」ダイアログを開く" />
       <item value="保存ボタン処理" />
       <item value="ダイアログ保存ボタン処理" />
       <item value="データデフォルトフィルデイリーボードidが見つかりません" />
@@ -50,14 +51,13 @@
       <item value="当天天气存在更新" />
       <item value="操作失败" />
       <item value="操作成功" />
-      <item value="天气信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
+        <entry key="CHINESE" value="60" />
         <entry key="ENGLISH" value="26" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="60" />
+        <entry key="JAPANESE" value="61" />
       </map>
     </option>
   </component>
