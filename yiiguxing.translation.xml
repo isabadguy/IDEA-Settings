@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="クラス" />
       <item value="クラスを入力してください。" />
       <item value="チェックする" />
       <item value="マスタ" />
@@ -27,7 +28,6 @@
       <item value="クラス編集画面初期化" />
       <item value="データなしの場合、登録する" />
       <item value="デイリーボード" />
-      <item value="クラス" />
       <item value="データを取得する" />
       <item value="読むフラグ" />
       <item value="Emotion" />
@@ -54,10 +54,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
+        <entry key="CHINESE" value="69" />
         <entry key="ENGLISH" value="27" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="69" />
+        <entry key="JAPANESE" value="70" />
       </map>
     </option>
   </component>
