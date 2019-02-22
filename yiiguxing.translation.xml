@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="条件により園児情報を入手" />
       <item value="クラス" />
       <item value="クラスを入力してください。" />
       <item value="チェックする" />
@@ -50,14 +51,13 @@
       <item value="ABSENCE KIND" />
       <item value="データ件数" />
       <item value="否则" />
-      <item value="插入" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
+        <entry key="CHINESE" value="70" />
         <entry key="ENGLISH" value="27" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="70" />
+        <entry key="JAPANESE" value="71" />
       </map>
     </option>
   </component>
