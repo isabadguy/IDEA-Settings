@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="デザート" />
+      <item value="デザ" />
       <item value="読み書きフラグ" />
       <item value="食事チェック情報データのデータを取得する" />
       <item value="保存します、よろしいですか" />
@@ -49,15 +51,13 @@
       <item value="ABSENCE TYPE" />
       <item value="卒園・退園者も表示" />
       <item value="検索ボックス" />
-      <item value="CHILDREN NM" />
-      <item value="園児一覧のデータを取得する" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
+        <entry key="CHINESE" value="80" />
         <entry key="ENGLISH" value="27" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="78" />
+        <entry key="JAPANESE" value="81" />
       </map>
     </option>
   </component>
