@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="下書き" />
+      <item value="申請を提出する" />
       <item value="条件により園児情報を入手" />
       <item value="何も入力していないので、入力してください。" />
       <item value="します、よろしいですか" />
@@ -31,7 +33,6 @@
       <item value="役職" />
       <item value="convert" />
       <item value="アンケート項目を公開する" />
-      <item value="下書き" />
       <item value="「職員」ダイアログを開く" />
       <item value="保存ボタン処理" />
       <item value="ダイアログ保存ボタン処理" />
@@ -50,14 +51,13 @@
       <item value="クラス編集画面初期化" />
       <item value="データなしの場合、登録する" />
       <item value="デイリーボード" />
-      <item value="データを取得する" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
+        <entry key="CHINESE" value="95" />
         <entry key="ENGLISH" value="30" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="94" />
+        <entry key="JAPANESE" value="96" />
       </map>
     </option>
   </component>
