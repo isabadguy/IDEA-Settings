@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="条件により園児情報を入手" />
       <item value="何も入力していないので、入力してください。" />
       <item value="します、よろしいですか" />
       <item value="午睡時間の終了" />
@@ -23,7 +24,6 @@
       <item value="保存します、よろしいですか" />
       <item value="ダイアログ" />
       <item value="ボタン" />
-      <item value="条件により園児情報を入手" />
       <item value="クラス" />
       <item value="クラスを入力してください。" />
       <item value="チェックする" />
@@ -54,10 +54,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
+        <entry key="CHINESE" value="93" />
         <entry key="ENGLISH" value="30" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="93" />
+        <entry key="JAPANESE" value="94" />
       </map>
     </option>
   </component>
