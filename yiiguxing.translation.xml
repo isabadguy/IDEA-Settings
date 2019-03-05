@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入力した連絡はありません" />
       <item value="exists" />
       <item value="exits" />
       <item value="底まで引き下げる" />
@@ -50,14 +51,13 @@
       <item value="ダイアログを開く" />
       <item value="「午睡」ダイアログを開く" />
       <item value="カレント職員情報を取得する" />
-      <item value="galaxy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="98" />
         <entry key="ENGLISH" value="38" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="JAPANESE" value="98" />
+        <entry key="JAPANESE" value="99" />
       </map>
     </option>
   </component>
