@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collect" />
       <item value="プール" />
       <item value="Unsatisfied" />
       <item value="Consider" />
@@ -50,12 +51,11 @@
       <item value="「職員」ダイアログを開く" />
       <item value="保存ボタン処理" />
       <item value="ダイアログ保存ボタン処理" />
-      <item value="データデフォルトフィルデイリーボードidが見つかりません" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="41" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="JAPANESE" value="103" />
       </map>
