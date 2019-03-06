@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancel" />
+      <item value="cancle" />
       <item value="collect" />
       <item value="プール" />
       <item value="Unsatisfied" />
@@ -49,13 +51,11 @@
       <item value="convert" />
       <item value="アンケート項目を公開する" />
       <item value="「職員」ダイアログを開く" />
-      <item value="保存ボタン処理" />
-      <item value="ダイアログ保存ボタン処理" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="43" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="JAPANESE" value="103" />
       </map>
