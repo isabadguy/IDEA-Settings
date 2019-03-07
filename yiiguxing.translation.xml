@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ディスプレ" />
+      <item value="写真ディスプレ" />
+      <item value="ダイアログ" />
+      <item value="タブ" />
+      <item value="タブ保存ダイアログ" />
       <item value="exists" />
       <item value="写真ボタンをクリック" />
       <item value="Diglog" />
@@ -46,19 +51,14 @@
       <item value="デザート" />
       <item value="デザ" />
       <item value="読み書きフラグ" />
-      <item value="食事チェック情報データのデータを取得する" />
-      <item value="保存します、よろしいですか" />
-      <item value="ダイアログ" />
-      <item value="ボタン" />
-      <item value="クラス" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
+        <entry key="CHINESE" value="110" />
         <entry key="ENGLISH" value="48" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="JAPANESE" value="106" />
+        <entry key="JAPANESE" value="111" />
       </map>
     </option>
   </component>
