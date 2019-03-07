@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Diglog" />
+      <item value="white" />
+      <item value="write" />
       <item value="ファイル" />
       <item value="Photo" />
       <item value="DRAFT" />
@@ -48,15 +51,13 @@
       <item value="ボタン" />
       <item value="クラス" />
       <item value="クラスを入力してください。" />
-      <item value="チェックする" />
-      <item value="マスタ" />
-      <item value="役職" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="47" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="105" />
       </map>
     </option>
