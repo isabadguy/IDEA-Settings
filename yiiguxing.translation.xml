@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ボタンのクリックイベント" />
       <item value="写真ファイルを取得" />
       <item value="週の最初の日は日曜日ですか。" />
       <item value="CONTACT TYPE" />
@@ -8,7 +9,6 @@
       <item value="を" />
       <item value="は読み取り状況に変更されました" />
       <item value="されました" />
-      <item value="ボタンのクリックイベント" />
       <item value="ディスプレ" />
       <item value="写真ディスプレ" />
       <item value="ダイアログ" />
@@ -54,11 +54,11 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
+        <entry key="CHINESE" value="119" />
         <entry key="ENGLISH" value="49" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="JAPANESE" value="119" />
+        <entry key="JAPANESE" value="120" />
       </map>
     </option>
   </component>
