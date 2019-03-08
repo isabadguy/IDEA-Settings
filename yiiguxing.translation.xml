@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="保護者からの連絡情報を変更" />
+      <item value="を" />
+      <item value="は読み取り状況に変更されました" />
+      <item value="されました" />
       <item value="ボタンのクリックイベント" />
       <item value="ディスプレ" />
       <item value="写真ディスプレ" />
@@ -47,18 +51,14 @@
       <item value="をクリック" />
       <item value="削除ボタン" />
       <item value="タブの削除ボタン" />
-      <item value="zero" />
-      <item value="個人日誌・連絡帳情報の承認状態を取得する" />
-      <item value="デザート" />
-      <item value="デザ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
+        <entry key="CHINESE" value="116" />
         <entry key="ENGLISH" value="48" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="JAPANESE" value="113" />
+        <entry key="JAPANESE" value="117" />
       </map>
     </option>
   </component>
