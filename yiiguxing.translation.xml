@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CONTACT TYPE" />
       <item value="保護者からの連絡情報を変更" />
       <item value="を" />
       <item value="は読み取り状況に変更されました" />
@@ -50,12 +51,11 @@
       <item value="Defecation" />
       <item value="をクリック" />
       <item value="削除ボタン" />
-      <item value="タブの削除ボタン" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="49" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="117" />
