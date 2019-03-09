@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="リストをチェックする" />
       <item value="ボタンのクリックイベント" />
       <item value="写真ファイルを取得" />
       <item value="週の最初の日は日曜日ですか。" />
@@ -50,15 +51,14 @@
       <item value="クラス情報" />
       <item value="うつぶせ直しフラッグ" />
       <item value="reversion" />
-      <item value="Defecation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
+        <entry key="CHINESE" value="120" />
         <entry key="ENGLISH" value="49" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="JAPANESE" value="120" />
+        <entry key="JAPANESE" value="121" />
       </map>
     </option>
   </component>
