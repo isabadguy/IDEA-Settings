@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ファイル" />
       <item value="exists" />
       <item value="配信IDとクラスフラグをセットす" />
       <item value="指定されたクラスリストの全園児を取得する" />
@@ -22,7 +23,6 @@
       <item value="Diglog" />
       <item value="white" />
       <item value="write" />
-      <item value="ファイル" />
       <item value="Photo" />
       <item value="DRAFT" />
       <item value="cancel" />
@@ -58,7 +58,7 @@
         <entry key="ENGLISH" value="50" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="JAPANESE" value="123" />
+        <entry key="JAPANESE" value="124" />
       </map>
     </option>
   </component>
