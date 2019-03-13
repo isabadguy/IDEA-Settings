@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="イッチ" />
+      <item value="タブスイッチ" />
       <item value="個人日誌のメールでも通知" />
       <item value="Last" />
       <item value="child Id" />
@@ -49,16 +51,14 @@
       <item value="しました" />
       <item value="下書き" />
       <item value="申請を提出する" />
-      <item value="条件により園児情報を入手" />
-      <item value="何も入力していないので、入力してください。" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
+        <entry key="CHINESE" value="127" />
         <entry key="ENGLISH" value="53" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="JAPANESE" value="126" />
+        <entry key="JAPANESE" value="128" />
       </map>
     </option>
   </component>
