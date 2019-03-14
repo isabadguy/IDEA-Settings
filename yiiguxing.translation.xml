@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="お迎え" />
       <item value="家庭での様子を保護者からの連絡情報データを取得する" />
       <item value="イッチ" />
       <item value="タブスイッチ" />
@@ -50,15 +51,14 @@
       <item value="deny" />
       <item value="Contact" />
       <item value="しました" />
-      <item value="下書き" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
+        <entry key="CHINESE" value="129" />
         <entry key="ENGLISH" value="53" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="JAPANESE" value="129" />
+        <entry key="JAPANESE" value="130" />
       </map>
     </option>
   </component>
