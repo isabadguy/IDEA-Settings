@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ボタンのクリックイベント" />
       <item value="Cancel" />
       <item value="ファイルサーバー情報" />
       <item value="お迎え" />
@@ -17,7 +18,6 @@
       <item value="配信IDとクラスフラグをセットす" />
       <item value="指定されたクラスリストの全園児を取得する" />
       <item value="リストをチェックする" />
-      <item value="ボタンのクリックイベント" />
       <item value="写真ファイルを取得" />
       <item value="週の最初の日は日曜日ですか。" />
       <item value="CONTACT TYPE" />
@@ -58,7 +58,7 @@
         <entry key="ENGLISH" value="54" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="JAPANESE" value="131" />
+        <entry key="JAPANESE" value="132" />
       </map>
     </option>
   </component>
