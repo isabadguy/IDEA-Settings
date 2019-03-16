@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NCONFIRMED" />
+      <item value="Current" />
       <item value="データ件数" />
       <item value="Guardian" />
       <item value="ボタンのクリックイベント" />
@@ -49,13 +51,11 @@
       <item value="フラグ" />
       <item value="入力した連絡はありません" />
       <item value="exits" />
-      <item value="底まで引き下げる" />
-      <item value="three" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="57" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="133" />
