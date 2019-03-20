@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exists" />
       <item value="parameter" />
       <item value="param" />
       <item value="ODULE" />
@@ -21,7 +22,6 @@
       <item value="一括分の生データ" />
       <item value="step" />
       <item value="ファイル" />
-      <item value="exists" />
       <item value="配信IDとクラスフラグをセットす" />
       <item value="指定されたクラスリストの全園児を取得する" />
       <item value="リストをチェックする" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
