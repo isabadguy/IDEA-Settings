@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="アレルギーコード" />
       <item value="Self" />
       <item value="User Members" />
       <item value="inject" />
@@ -50,7 +51,6 @@
       <item value="DRAFT" />
       <item value="cancel" />
       <item value="cancle" />
-      <item value="collect" />
     </histories>
     <option name="languageScores">
       <map>
@@ -59,7 +59,7 @@
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="134" />
+        <entry key="JAPANESE" value="135" />
       </map>
     </option>
   </component>
