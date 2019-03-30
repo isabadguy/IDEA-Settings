@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="thumbnails" />
+      <item value="thumb" />
       <item value="real" />
       <item value="intent" />
       <item value="exists" />
@@ -49,13 +51,11 @@
       <item value="ダイアログ" />
       <item value="タブ" />
       <item value="タブ保存ダイアログ" />
-      <item value="写真ボタンをクリック" />
-      <item value="Diglog" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
