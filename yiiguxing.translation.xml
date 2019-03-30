@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exists" />
       <item value="Validate" />
       <item value="Validte" />
       <item value="Valid" />
-      <item value="exists" />
       <item value="获取当前时间" />
       <item value="アレルギーコード" />
       <item value="Self" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
