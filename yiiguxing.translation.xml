@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="loading" />
+      <item value="loadding" />
+      <item value="lodding" />
       <item value="set notice read by childId and noticeId" />
       <item value="set notice for read by childId and noticeId" />
       <item value="set notice as read by childId and noticeId" />
@@ -48,9 +51,6 @@
       <item value="リストをチェックする" />
       <item value="写真ファイルを取得" />
       <item value="週の最初の日は日曜日ですか。" />
-      <item value="CONTACT TYPE" />
-      <item value="保護者からの連絡情報を変更" />
-      <item value="を" />
     </histories>
     <option name="languageScores">
       <map>
