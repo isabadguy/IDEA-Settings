@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="real" />
+      <item value="Word" />
+      <item value="calculate" />
+      <item value="calcutlate" />
+      <item value="Height" />
       <item value="图片位于上方附件位于下方" />
       <item value="图片在上" />
       <item value="loading" />
@@ -15,7 +20,6 @@
       <item value="しいパスワード" />
       <item value="thumbnails" />
       <item value="thumb" />
-      <item value="real" />
       <item value="intent" />
       <item value="exists" />
       <item value="Validate" />
@@ -47,19 +51,16 @@
       <item value="child Id" />
       <item value="一括分の生データ" />
       <item value="step" />
-      <item value="ファイル" />
-      <item value="配信IDとクラスフラグをセットす" />
-      <item value="指定されたクラスリストの全園児を取得する" />
-      <item value="リストをチェックする" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="81" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="140" />
+        <entry key="JAPANESE" value="141" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
