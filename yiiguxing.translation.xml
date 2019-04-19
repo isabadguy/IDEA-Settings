@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="パスワードが一致しません。" />
       <item value="app计算高度 联络帐图片顺序" />
       <item value="notice" />
       <item value="grant" />
@@ -50,7 +51,6 @@
       <item value="Guardian" />
       <item value="ボタンのクリックイベント" />
       <item value="Cancel" />
-      <item value="ファイルサーバー情報" />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,7 +60,7 @@
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="141" />
+        <entry key="JAPANESE" value="142" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
