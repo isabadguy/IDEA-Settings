@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Non Breaking" />
       <item value="Spaces" />
       <item value="Leading" />
+      <item value="Non Breaking" />
       <item value="convert" />
       <item value="パスワードが一致しません。" />
       <item value="app计算高度 联络帐图片顺序" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="ENGLISH" value="95" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="1" />
