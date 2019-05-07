@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calculate" />
       <item value="invalid" />
       <item value="probably" />
       <item value="Internal" />
@@ -20,7 +21,6 @@
       <item value="devier" />
       <item value="real" />
       <item value="Word" />
-      <item value="calculate" />
       <item value="calcutlate" />
       <item value="Height" />
       <item value="图片位于上方附件位于下方" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="1" />
