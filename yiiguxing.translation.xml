@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specified" />
+      <item value="immutable" />
+      <item value="Singleton" />
       <item value="Converter" />
       <item value="Conver" />
       <item value="calculate" />
@@ -48,14 +51,11 @@
       <item value="アレルギーコード" />
       <item value="Self" />
       <item value="User Members" />
-      <item value="inject" />
-      <item value="データリストを取得する" />
-      <item value="fix" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="1" />
