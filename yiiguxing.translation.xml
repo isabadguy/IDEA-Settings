@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="board" />
+      <item value="draw" />
+      <item value="drawboard" />
+      <item value="paintboard" />
+      <item value="paint" />
       <item value="crop" />
       <item value="SPREADSHEET" />
       <item value="PRESENTATION" />
@@ -46,16 +51,11 @@
       <item value="set notice as read by childId and noticeId" />
       <item value="content" />
       <item value="挿入時の排他操作" />
-      <item value="expiry" />
-      <item value="しいパスワード" />
-      <item value="thumbnails" />
-      <item value="thumb" />
-      <item value="intent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="ENGLISH" value="115" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="1" />
