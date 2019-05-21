@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extis" />
       <item value="ikun is brother" />
       <item value="brother" />
       <item value="Area" />
@@ -50,7 +51,6 @@
       <item value="calcutlate" />
       <item value="Height" />
       <item value="图片位于上方附件位于下方" />
-      <item value="图片在上" />
     </histories>
     <option name="languageScores">
       <map>
@@ -59,6 +59,7 @@
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="1" />
+        <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
