@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ikun is brother" />
+      <item value="brother" />
+      <item value="Area" />
       <item value="possion" />
       <item value="posstion" />
       <item value="Circle" />
@@ -48,18 +51,16 @@
       <item value="Height" />
       <item value="图片位于上方附件位于下方" />
       <item value="图片在上" />
-      <item value="loading" />
-      <item value="loadding" />
-      <item value="lodding" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="ENGLISH" value="122" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="142" />
         <entry key="ITALIAN" value="1" />
