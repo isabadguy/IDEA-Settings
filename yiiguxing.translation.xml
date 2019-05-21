@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="possion" />
+      <item value="posstion" />
       <item value="Circle" />
       <item value="Crile" />
       <item value="chooies" />
@@ -49,13 +51,11 @@
       <item value="loading" />
       <item value="loadding" />
       <item value="lodding" />
-      <item value="set notice read by childId and noticeId" />
-      <item value="set notice for read by childId and noticeId" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="ENGLISH" value="120" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="1" />
