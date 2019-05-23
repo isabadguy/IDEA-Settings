@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="園児クラス紐づけ" />
+      <item value="検索条件変更イベント" />
       <item value="クエリパラメータ" />
       <item value="caption" />
       <item value="extis" />
@@ -49,12 +51,10 @@
       <item value="drivers" />
       <item value="devier" />
       <item value="real" />
-      <item value="Word" />
-      <item value="calcutlate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
+        <entry key="CHINESE" value="144" />
         <entry key="ENGLISH" value="123" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
@@ -63,7 +63,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="143" />
+        <entry key="JAPANESE" value="145" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
