@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="イベント" />
       <item value="detail" />
       <item value="card" />
       <item value="園児クラス紐づけ" />
@@ -50,7 +51,6 @@
       <item value="driver" />
       <item value="derive" />
       <item value="Width" />
-      <item value="drivers" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,7 +63,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="145" />
+        <entry key="JAPANESE" value="146" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
