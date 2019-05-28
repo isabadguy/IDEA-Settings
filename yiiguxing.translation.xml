@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detail" />
       <item value="ページ" />
       <item value="帳票種別編集する" />
       <item value="イベント" />
-      <item value="detail" />
       <item value="card" />
       <item value="園児クラス紐づけ" />
       <item value="検索条件変更イベント" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="127" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="1" />
