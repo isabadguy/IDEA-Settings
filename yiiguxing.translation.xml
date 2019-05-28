@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="オリジナル" />
+      <item value="テンプレート" />
+      <item value="オリジナルテンプレート" />
+      <item value="オリジナルテンプ" />
+      <item value="オリジナルテン" />
       <item value="帳票テンプレートの保存する" />
       <item value="detail" />
       <item value="ページ" />
@@ -46,15 +51,10 @@
       <item value="Leading" />
       <item value="Non Breaking" />
       <item value="convert" />
-      <item value="パスワードが一致しません。" />
-      <item value="app计算高度 联络帐图片顺序" />
-      <item value="notice" />
-      <item value="grant" />
-      <item value="granted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
+        <entry key="CHINESE" value="155" />
         <entry key="ENGLISH" value="127" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
@@ -63,7 +63,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="149" />
+        <entry key="JAPANESE" value="156" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
