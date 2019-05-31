@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ファイルをアップロードする" />
       <item value="element" />
       <item value="ORIGINAL" />
       <item value="contants" />
@@ -50,11 +51,10 @@
       <item value="Converter" />
       <item value="Conver" />
       <item value="calculate" />
-      <item value="invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
+        <entry key="CHINESE" value="158" />
         <entry key="ENGLISH" value="131" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
@@ -63,7 +63,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="157" />
+        <entry key="JAPANESE" value="159" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
