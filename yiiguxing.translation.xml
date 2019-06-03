@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ファイルをアップロードする" />
       <item value="Image" />
       <item value="business Type" />
-      <item value="ファイルをアップロードする" />
       <item value="element" />
       <item value="ORIGINAL" />
       <item value="contants" />
@@ -63,7 +63,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="159" />
+        <entry key="JAPANESE" value="160" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
