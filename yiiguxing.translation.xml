@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="params" />
       <item value="ファイルをアップロードする" />
       <item value="Image" />
       <item value="business Type" />
@@ -50,12 +51,11 @@
       <item value="specified" />
       <item value="immutable" />
       <item value="Singleton" />
-      <item value="Converter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="134" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="1" />
