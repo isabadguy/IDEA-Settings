@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="position" />
+      <item value="Localtion" />
       <item value="controler" />
       <item value="door" />
       <item value="floors" />
@@ -49,13 +51,11 @@
       <item value="paint" />
       <item value="crop" />
       <item value="SPREADSHEET" />
-      <item value="PRESENTATION" />
-      <item value="orign" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="ENGLISH" value="141" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
