@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="floors" />
+      <item value="floor" />
       <item value="warpper" />
       <item value="wapper" />
       <item value="Nested" />
@@ -49,13 +51,11 @@
       <item value="orign" />
       <item value="reason" />
       <item value="macgin" />
-      <item value="capricornus" />
-      <item value="properties" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="ENGLISH" value="138" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="1" />
