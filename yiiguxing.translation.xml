@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Effectively, all remaining messages failed..." />
+      <item value="all remaining messages failed..." />
+      <item value="Effectively" />
       <item value="リンクア" />
       <item value="ンカー" />
       <item value="カー" />
@@ -48,14 +51,11 @@
       <item value="caption" />
       <item value="extis" />
       <item value="ikun is brother" />
-      <item value="brother" />
-      <item value="Area" />
-      <item value="possion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="149" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
