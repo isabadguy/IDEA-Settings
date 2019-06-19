@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ユーザー権限を検出する" />
       <item value="four" />
       <item value="three" />
       <item value="free" />
@@ -50,7 +51,6 @@
       <item value="イベント" />
       <item value="card" />
       <item value="園児クラス紐づけ" />
-      <item value="検索条件変更イベント" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="166" />
+        <entry key="JAPANESE" value="167" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
