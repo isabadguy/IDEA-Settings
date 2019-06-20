@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vendor" />
       <item value="ユーザー権限を検出する" />
       <item value="four" />
       <item value="three" />
@@ -50,12 +51,11 @@
       <item value="帳票種別編集する" />
       <item value="イベント" />
       <item value="card" />
-      <item value="園児クラス紐づけ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="156" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
