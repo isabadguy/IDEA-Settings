@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="変更したデータを保存する" />
       <item value="FORCE UPDATE" />
       <item value="vendor" />
       <item value="ユーザー権限を検出する" />
@@ -18,7 +19,6 @@
       <item value="exist" />
       <item value="exits" />
       <item value="valid" />
-      <item value="変更したデータを保存する" />
       <item value="更新の場合、元データの有効終了日をシステム日付 - 1に更新して" />
       <item value="Master" />
       <item value="close" />
@@ -65,7 +65,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="167" />
+        <entry key="JAPANESE" value="168" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
