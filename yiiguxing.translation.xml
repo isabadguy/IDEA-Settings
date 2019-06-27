@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Application" />
       <item value="削除を許可するカテゴリの下にテンプレートがありません" />
       <item value="この{0}は有効ではありません。" />
       <item value="変更したデータを保存する" />
@@ -50,12 +51,11 @@
       <item value="オリジナルテン" />
       <item value="帳票テンプレートの保存する" />
       <item value="detail" />
-      <item value="ページ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="158" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
