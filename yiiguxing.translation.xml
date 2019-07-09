@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if this is the first time painting this document, then calc layout" />
       <item value="Compression" />
       <item value="Start" />
       <item value="利用されている帳票種別がありますので、帳票種別は削除できません。" />
@@ -50,12 +51,11 @@
       <item value="contants" />
       <item value="バージョン" />
       <item value="finally" />
-      <item value="last" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
