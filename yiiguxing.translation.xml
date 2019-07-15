@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="デイリーボード情報を取得する" />
+      <item value="タグを作る" />
       <item value="下書き、取消済、または却下の状態でのみ更新可能" />
       <item value="デバイス" />
       <item value="target" />
@@ -49,12 +51,10 @@
       <item value="ファイルをアップロードする" />
       <item value="Image" />
       <item value="business Type" />
-      <item value="element" />
-      <item value="ORIGINAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
+        <entry key="CHINESE" value="177" />
         <entry key="ENGLISH" value="163" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
@@ -65,7 +65,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="176" />
+        <entry key="JAPANESE" value="178" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
