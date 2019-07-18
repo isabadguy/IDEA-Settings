@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="デフォルト" />
       <item value="異なるブラウザの表示スタイルの矛盾の問題を解決する" />
       <item value="style" />
       <item value="style='border-collapse: collapse" />
@@ -50,11 +51,10 @@
       <item value="position" />
       <item value="Localtion" />
       <item value="controler" />
-      <item value="door" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
+        <entry key="CHINESE" value="179" />
         <entry key="ENGLISH" value="170" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
@@ -65,7 +65,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="179" />
+        <entry key="JAPANESE" value="180" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
