@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hand" />
       <item value="landlords" />
       <item value="NOT STARTED" />
       <item value="デフォルト" />
@@ -50,12 +51,11 @@
       <item value="更新の場合、元データの有効終了日をシステム日付 - 1に更新して" />
       <item value="Master" />
       <item value="close" />
-      <item value="position" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="ENGLISH" value="175" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
