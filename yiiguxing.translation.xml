@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="target" />
       <item value="with" />
       <item value="current Player" />
       <item value="bomb" />
@@ -20,7 +21,6 @@
       <item value="タグを作る" />
       <item value="下書き、取消済、または却下の状態でのみ更新可能" />
       <item value="デバイス" />
-      <item value="target" />
       <item value="if this is the first time painting this document, then calc layout" />
       <item value="Compression" />
       <item value="Start" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="ENGLISH" value="179" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
