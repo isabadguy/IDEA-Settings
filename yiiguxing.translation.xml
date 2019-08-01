@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="いいえ帳票テンプレートは共通的ではありません" />
       <item value="target" />
       <item value="with" />
       <item value="current Player" />
@@ -50,11 +51,10 @@
       <item value="リンクアンカー" />
       <item value="exist" />
       <item value="exits" />
-      <item value="valid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
+        <entry key="CHINESE" value="181" />
         <entry key="ENGLISH" value="179" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
@@ -65,7 +65,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="180" />
+        <entry key="JAPANESE" value="182" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
