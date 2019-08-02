@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Diary" />
+      <item value="daily" />
       <item value="ログインユーザーID" />
       <item value="ページ" />
       <item value="いいえ帳票テンプレートは共通的ではありません" />
@@ -49,13 +51,11 @@
       <item value="Effectively" />
       <item value="リンクア" />
       <item value="ンカー" />
-      <item value="カー" />
-      <item value="リンクアンカー" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="183" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="181" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
