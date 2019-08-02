@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="アンケート回答数を取得する" />
       <item value="Diary" />
       <item value="daily" />
       <item value="ログインユーザーID" />
@@ -50,7 +51,6 @@
       <item value="all remaining messages failed..." />
       <item value="Effectively" />
       <item value="リンクア" />
-      <item value="ンカー" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="184" />
+        <entry key="JAPANESE" value="185" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
