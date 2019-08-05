@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="画像は下の添付ファイルの上にあります" />
       <item value="アンケート回答数を取得する" />
       <item value="Diary" />
       <item value="daily" />
@@ -50,11 +51,10 @@
       <item value="Effectively, all remaining messages failed..." />
       <item value="all remaining messages failed..." />
       <item value="Effectively" />
-      <item value="リンクア" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
+        <entry key="CHINESE" value="185" />
         <entry key="ENGLISH" value="181" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
@@ -65,7 +65,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="185" />
+        <entry key="JAPANESE" value="186" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
