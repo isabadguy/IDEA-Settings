@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shouldnotfilter" />
       <item value="画像は下の添付ファイルの上にあります" />
       <item value="アンケート回答数を取得する" />
       <item value="Diary" />
@@ -50,12 +51,11 @@
       <item value="CANCEL" />
       <item value="Effectively, all remaining messages failed..." />
       <item value="all remaining messages failed..." />
-      <item value="Effectively" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="182" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
