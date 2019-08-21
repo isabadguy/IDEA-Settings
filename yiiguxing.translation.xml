@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Modified" />
       <item value="Composite" />
       <item value="Executes a count query and transparently sums up all values returned." />
       <item value="Internal" />
@@ -50,12 +51,11 @@
       <item value="ユーザー権限を検出する" />
       <item value="four" />
       <item value="three" />
-      <item value="free" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
