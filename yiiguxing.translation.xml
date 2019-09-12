@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="response" />
       <item value="growable" />
       <item value="expend" />
       <item value="Defaults to a 0.0 width bottom border with color 0xFFBDBDBD." />
@@ -50,12 +51,11 @@
       <item value="current Player" />
       <item value="bomb" />
       <item value="hand" />
-      <item value="landlords" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
