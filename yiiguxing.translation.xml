@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Defaults to a 0.0 width bottom border with color 0xFFBDBDBD." />
+      <item value="The widget to use for drawing the drop-down button's underline." />
       <item value="Submitted" />
       <item value="Submited" />
       <item value="Submit" />
@@ -49,13 +51,11 @@
       <item value="landlords" />
       <item value="NOT STARTED" />
       <item value="デフォルト" />
-      <item value="異なるブラウザの表示スタイルの矛盾の問題を解決する" />
-      <item value="style" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
