@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Area" />
+      <item value="Today" />
       <item value="content" />
       <item value="/// If [isScrollable] is true, then each tab is as wide as needed for its label /// and the entire [TabBar] is scrollable. Otherwise each tab gets an equal /// share of the available space." />
       <item value="Yestday" />
@@ -49,13 +51,11 @@
       <item value="explicitly" />
       <item value="Present" />
       <item value="deduce" />
-      <item value="started" />
-      <item value="Caught" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="208" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
