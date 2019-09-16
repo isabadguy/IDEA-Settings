@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds Since Epoch" />
+      <item value="is At Same Moment As" />
       <item value="Late" />
       <item value="Start" />
       <item value="Expanded(no depth, flex: 1, dirty) has a Flex ancestor, but there are other widgets between them:" />
@@ -49,13 +51,11 @@
       <item value="shouldnotfilter" />
       <item value="画像は下の添付ファイルの上にあります" />
       <item value="アンケート回答数を取得する" />
-      <item value="Diary" />
-      <item value="daily" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
