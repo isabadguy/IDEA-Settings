@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Start" />
+      <item value="Expanded(no depth, flex: 1, dirty) has a Flex ancestor, but there are other widgets between them:" />
+      <item value="Expanded widgets must be placed directly inside Flex widgets." />
       <item value="ABSENCE TYPE" />
       <item value="/// A new widget will only be used to update an existing element if its key is&#10;/// the same as the key of the current widget associated with the element." />
       <item value="active" />
@@ -48,14 +51,11 @@
       <item value="Diary" />
       <item value="daily" />
       <item value="ログインユーザーID" />
-      <item value="ページ" />
-      <item value="いいえ帳票テンプレートは共通的ではありません" />
-      <item value="target" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
