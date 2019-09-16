@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shrink Wrap" />
       <item value="result" />
       <item value="No Data" />
       <item value="Not Data" />
@@ -50,12 +51,11 @@
       <item value="Modified" />
       <item value="Composite" />
       <item value="Executes a count query and transparently sums up all values returned." />
-      <item value="Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="230" />
+        <entry key="ENGLISH" value="231" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
