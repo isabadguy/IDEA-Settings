@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Data" />
+      <item value="Not Data" />
       <item value="milliseconds Since Epoch" />
       <item value="is At Same Moment As" />
       <item value="Late" />
@@ -49,13 +51,11 @@
       <item value="Executes a count query and transparently sums up all values returned." />
       <item value="Internal" />
       <item value="shouldnotfilter" />
-      <item value="画像は下の添付ファイルの上にあります" />
-      <item value="アンケート回答数を取得する" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
