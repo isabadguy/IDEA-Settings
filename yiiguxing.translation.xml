@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cancel" />
       <item value="Backward" />
       <item value="Back Ward" />
       <item value="INFECTIOUS" />
@@ -50,12 +51,11 @@
       <item value="elevation" />
       <item value="switch" />
       <item value="Colours" />
-      <item value="test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
