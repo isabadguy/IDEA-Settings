@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/// Dragged far enough that the onRefresh callback will run and the dragged /// displacement is not yet at the final refresh resting state." />
+      <item value="/// While being overscrolled but not far enough yet to trigger the refresh." />
+      <item value="/// Initial state, when not being overscrolled into, or after the overscroll /// is canceled or after done and the sliver retracted away." />
       <item value="divider" />
       <item value="fadacd" />
       <item value="Cancel" />
@@ -48,14 +51,11 @@
       <item value="a bottom sheet that will utilize [DraggableScrollableSheet]. If you wish" />
       <item value="The `isScrollControlled` parameter specifies whether this is a route for" />
       <item value="Whether the text should break at soft line breaks." />
-      <item value="If false, the glyphs in the text will be positioned as if there was unlimited horizontal space." />
-      <item value="Bouncing" />
-      <item value="elevation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="241" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
