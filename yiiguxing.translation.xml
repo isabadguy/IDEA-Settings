@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="android" />
+      <item value="model" />
+      <item value="brand" />
       <item value="# The following defines the version and build number for your application.&#10;# A version number is three numbers separated by dots, like 1.2.43&#10;# followed by an optional build number separated by a +.&#10;# Both the version and the builder number may be overridden in flutter&#10;# build by specifying --build-name and --build-number, respectively.&#10;# In Android, build-name is used as versionName while build-number used as versionCode.&#10;# Read more about Android versioning at https://developer.android.com/studio/publish/versioning&#10;# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.&#10;# Read more about iOS versioning at" />
       <item value="do Version Checked" />
       <item value="Version Checked" />
@@ -48,14 +51,11 @@
       <item value="Submitted" />
       <item value="Submited" />
       <item value="Submit" />
-      <item value="Form" />
-      <item value="Area" />
-      <item value="Today" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="260" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
