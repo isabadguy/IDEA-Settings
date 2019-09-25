@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do Version Checked" />
+      <item value="Version Checked" />
+      <item value="Version" />
       <item value="/// A list of shadows cast by this box behind the box. /// /// The shadow follows the [shape] of the box." />
       <item value="Factor" />
       <item value="navigate To" />
@@ -48,14 +51,11 @@
       <item value="Area" />
       <item value="Today" />
       <item value="content" />
-      <item value="/// If [isScrollable] is true, then each tab is as wide as needed for its label /// and the entire [TabBar] is scrollable. Otherwise each tab gets an equal /// share of the available space." />
-      <item value="Yestday" />
-      <item value="The getter 'eMOTION' was called on null." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
