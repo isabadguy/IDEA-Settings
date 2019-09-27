@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Logout" />
+      <item value="/// Logical meaning: Initiate a call to emergency services. /// /// Android: Android does not have an IME input type of &quot;emergencyCall.&quot; It is /// inappropriate to choose this [TextInputAction] when running on Android. /// /// iOS: Corresponds to iOS's &quot;UIReturnKeyEmergencyCall&quot;. The title displayed /// in the action button is &quot;Emergency Call&quot;." />
+      <item value="/// Logical meaning: The user wants routing options, e.g., driving directions. /// /// Android: Android does not have an IME input type of &quot;route.&quot; It is /// inappropriate to choose this [TextInputAction] when running on Android. /// /// iOS: Corresponds to iOS's &quot;UIReturnKeyRoute&quot;. The title displayed in the /// action button is &quot;Route&quot;." />
+      <item value="/// Logical meaning: The user wants to join something, e.g., a wireless /// network. /// /// Android: Android does not have an IME input type of &quot;join.&quot; It is /// inappropriate to choose this [TextInputAction] when running on Android. /// /// iOS: Corresponds to iOS's &quot;UIReturnKeyJoin&quot;. The title displayed in the /// action button is &quot;Join&quot;." />
+      <item value="/// Logical meaning: In iOS apps, it is common for a &quot;Back&quot; button and /// &quot;Continue&quot; button to appear at the top of the screen. However, when the /// keyboard is open, these buttons are often hidden off-screen. Therefore, /// the purpose of the &quot;Continue&quot; return key on iOS is to make the &quot;Continue&quot; /// button available when the user is entering text. /// /// Historical context aside, [TextInputAction.continueAction] can be used any /// time that the term &quot;Continue&quot; seems most appropriate for the given action. /// /// Android: Android does not have an IME input type of &quot;continue.&quot; It is /// inappropriate to choose this [TextInputAction] when running on Android. /// /// iOS: Corresponds to iOS's &quot;UIReturnKeyContinue&quot;. The title displayed in the /// action button is &quot;Continue&quot;. This action is only available on iOS 9.0+. /// /// The reason that this value has &quot;Action&quot; post-fixed to it is because /// &quot;continue&quot; is a reserved word in Dart, as well as many other languages." />
+      <item value="/// Logical meaning: The user is done providing input to a group of inputs /// (like a form). Some kind of finalization behavior should now take place. /// /// Android: Corresponds to Android's &quot;IME_ACTION_DONE&quot;. The OS displays a /// button that represents completion, e.g., a checkmark button. /// /// iOS: Corresponds to iOS's &quot;UIReturnKeyDone&quot;. The title displayed in the /// action button is &quot;Done&quot;." />
+      <item value="/// Logical meaning: Let the OS decide which action is most appropriate. /// /// Android: Corresponds to Android's &quot;IME_ACTION_UNSPECIFIED&quot;. The OS chooses /// which keyboard action to display. The decision will likely be a done /// button or a return key. /// /// iOS: Corresponds to iOS's &quot;UIReturnKeyDefault&quot;. The title displayed in /// the action button is &quot;return&quot;." />
       <item value="/// Defaults to [TextInputAction.newline] if [keyboardType] is /// [TextInputType.multiline] and [TextInputAction.done] otherwise." />
       <item value="アカウントを期限切れで使えません。" />
       <item value="Exists" />
@@ -44,18 +51,11 @@
       <item value="Expanded widgets must be placed directly inside Flex widgets." />
       <item value="ABSENCE TYPE" />
       <item value="/// A new widget will only be used to update an existing element if its key is&#10;/// the same as the key of the current widget associated with the element." />
-      <item value="active" />
-      <item value="check If Need Enqueue" />
-      <item value="response" />
-      <item value="growable" />
-      <item value="expend" />
-      <item value="Defaults to a 0.0 width bottom border with color 0xFFBDBDBD." />
-      <item value="The widget to use for drawing the drop-down button's underline." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="269" />
+        <entry key="ENGLISH" value="270" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
